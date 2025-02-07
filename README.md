@@ -9,12 +9,4 @@ This project performs sentiment analysis on text data using machine learning tec
 - Data visualization for insights
 - Model evaluation with performance metrics
 
-## Usage
-1. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-2. Run the `sentiment_analysis.ipynb` notebook to process data and train models.
-
-Ensure that the input text data is correctly formatted before running the notebook.
 
